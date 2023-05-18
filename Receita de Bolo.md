@@ -1,11 +1,19 @@
+## Algoritimo de como fazer um bolo de laranja
+<br >
+
+![Foto de um bolo de laranja](./foto-bolo.webp)
+
 1. Reunir todos os ingredientes
 
-3 laranjas médias
-3 ovos
-2 xícaras de farinha de trigo
-1 xícara de açúcar
-1/2 xícara de óleo
-1 colher de sopa de fermento em pó
+<ul>
+  <li>3 laranjas médias</li>
+  <li>3 ovos</li>
+  <li>2 xícaras de farinha de trigo</li>
+  <li>1 xícara de açúcar</li>
+  <li>1/2 xícara de óleo</li>
+  <li>1 colher de sopa de fermento em pó</li>
+</ul>
+<br >
 
 2. Pré aquecer o forno a 180°C.
 3. Ralar a casca de uma laranja e espremer o suco das três laranjas em uma tigela grande.
